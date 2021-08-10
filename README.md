@@ -16,7 +16,27 @@
 
 ## Testing
 
-待补充
+使用界面
+
+![](https://raw.githubusercontent.com/h4ckdepy/depypocs/main/411628611712_.pic_hd.jpg)
+
+漏洞模糊搜索
+
+![](https://raw.githubusercontent.com/h4ckdepy/depypocs/main/421628611753_.pic_hd.jpg)
+
+漏洞选择&细节自填充&相关备注提示
+
+![](https://raw.githubusercontent.com/h4ckdepy/depypocs/main/431628611880_.pic_hd.jpg)
+
+后台漏洞库管理
+
+![](https://raw.githubusercontent.com/h4ckdepy/depypocs/main/441628612257_.pic_hd.jpg)
+
+## Thanks
+
+Sink@The Loner Security Team
+
+guoke@W&M
 
 
 
